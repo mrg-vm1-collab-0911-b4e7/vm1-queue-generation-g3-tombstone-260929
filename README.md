@@ -1,1 +1,3 @@
 # vm1-queue-generation-260929
+
+VM1_G3_QUEUE_GENERATION_CANARY_260929
