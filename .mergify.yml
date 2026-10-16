@@ -1,0 +1,6 @@
+merge_protections:
+  - name: vm1-independent-review-must-pass-261016
+    if:
+      - base = main
+    success_conditions:
+      - "#approved-reviews-by >= 1"
